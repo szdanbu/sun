@@ -87,6 +87,16 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000044/index.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8
+#EXTINF:-1 tvg-name="陕西1台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西电视1台
+http://stream.snrtv.com/sxbc-1-afgyHN.m3u8
+#EXTINF:-1 tvg-name="西安电视1台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",西安电视1台
+http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv1
+#EXTINF:-1 tvg-name="西安电视2台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",西安电视2台
+http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv2
+#EXTINF:-1 tvg-name="延安YATV-2" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",延安卫视
+http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
+#EXTINF:-1 tvg-name="延安YATV-1" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",延安卫视
+http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
