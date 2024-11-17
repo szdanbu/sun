@@ -93,9 +93,9 @@ http://stream.snrtv.com/sxbc-1-afgyHN.m3u8
 http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv1
 #EXTINF:-1 tvg-name="西安电视2台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",西安电视2台
 http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv2
-#EXTINF:-1 tvg-name="延安YATV-2" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",延安卫视
+#EXTINF:-1 tvg-name="延安YATV-2" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",延安YATV-2
 http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
-#EXTINF:-1 tvg-name="延安YATV-1" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",延安卫视
+#EXTINF:-1 tvg-name="延安YATV-1" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",延安YATV-1
 http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8
