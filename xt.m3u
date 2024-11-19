@@ -167,6 +167,8 @@ http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://live.fanmingming.com/tv台视.png/" group-title="港澳台频道",壹新闻
 http://211.72.65.236:8548/.m3u8
+#EXTINF:-1 tvg-name="日本中央电视台" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="NewTV",日本中央电视台
+https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
 #EXTINF:-1 tvg-name="日本新闻24" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",日本新闻24
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8 
 #EXTINF:-1 tvg-name="NHK" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="NewTV",NHK
@@ -179,10 +181,12 @@ https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m
 http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 #EXTINF:-1 tvg-name="日本BS" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="NewTV",日本BS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-name="韩国TVN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="NewTV",韩国TVN
-https://stream1.freetv.fun/c99c2a8e453e79685525b1146c39b0b5283ccebb2fa4749ebc77dc78afc178ed.m3u8
-#EXTINF:-1 tvg-name="韩国TVN2" tvg-logo="https://live.fanmingming.com/tvtvN.png/" group-title="NewTV",韩国TVN2
-https://stream1.freetv.fun/03ce80ad2f9fcc2616d80215280d7b7a36101969ecbb9584a47cd5675a9a62fd.m3u8
+#EXTINF:-1 tvg-name="韩国KBS" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="NewTV",韩国KBS
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-name="韩国KBS24" tvg-logo="https://live.fanmingming.com/tvtvN.png/" group-title="NewTV",KBS24
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1732141874&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMjE0MTg3NH19fV19&Signature=J0YfqnhV3D1YCxCxcWxanRmeHrRkUdIhZEx2aIJQw3vE5XxUJSHVYyTfboQfF8SEZVplS0rmFbaTMQn9JuPbBunvkFo8qF9KIuPfF-EVnGhcEnl6pTTkWNSi07MHZaPKzNHbBEv41iVI0lf44u7jOqFd3UK-7E72mCau4MlyDDHK~itIdItLbelPJdUknpbmJO6JPHTk4YBkov5CxWwVTm2P-37n-qPKpWOvuAp5BS-3hMIvD5s1SyxCi5YBSUiANSkienIO0R6TfzottlR8EFhUoj5ziY9C9CgbqOyw~dU-gwQnIbNZl7e5Ew2b9g4HvJsRbEiL6a0pDBUS6-L6~A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-name="韩国MBC" tvg-logo="https://live.fanmingming.com/tvtvN.png/" group-title="NewTV",韩国MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="韩国ABC" tvg-logo="https://live.fanmingming.com/tvtvN.png/" group-title="NewTV",韩国ABC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC" tvg-logo="https://live.fanmingming.com/tv/abcaus.png" group-title="NewTV",ABC
@@ -195,5 +199,81 @@ http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="BBCnews" tvg-logo="https://live.fanmingming.com/BBCWORLDNEWSASIA.png" group-title="NewTV",BBCnews
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
-#EXTINF:-1 tvg-name=俄罗斯中文台"" tvg-logo="https://live.fanmingming.com/CGTN俄语.png" group-title="NewTV",俄罗斯中文台
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="ABC Localish" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",ABC Localish
+https://csm-e-cetubiausw2live204-0abbeaa9b0760ad70.csm.tubi.video/csm/extlive/tubiprd01,Localish.m3u8?playback_start_ts=1731995681.507&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
+#EXTINF:-1 tvg-name="ABC7" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",ABC7
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 tvg-name="CBS2" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",CBS2
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-name="NBC" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",NBC
+NBC,https://cd71891d94494d13b6b2adab650716f6.mediatailor.us-west-2.amazonaws.com/v1/dash/7f34bf1814de6fddce84b1e6c296b7a70243b88f/nbcnews-atp-dash-linear-4s-generic/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd?aws.sessionId=e0a445d7-b2e9-45f1-91c3-85f576016c26
+#EXTINF:-1 tvg-name="美国第一财经" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",美国第一财经
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-name="美国儿童频道" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",美国儿童频道
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="迈阿密新闻" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",迈阿密新闻
+https://dai2-playlistserver.aws.syncbak.com/cpl/20359441/dai2v5/1.0/7b2264657669636554797065223a387d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJtaWQiOiIyMDM1OTQ0MSIsImNpZCI6MjA5MzAsInNpZCI6ODYzLCJtZDUiOiI2NDVlOGI4YzNlZjVjNjIzMWZmZDBmMjQ2YjM2NWNhNSIsImlhdCI6MTY4MTQyMDM2MSwiaXNzIjoiU3luY2JhayAoVEcpIn0.z6s98foBqaIqJNlYcAcqkgFbgL5xw_oO7KK0S38E6z0&platform=web
+#EXTINF:-1 tvg-name="俄罗斯中央台" tvg-logo="https://live.fanmingming.com/CGTN俄语.png" group-title="NewTV",俄罗斯中央台
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
+#EXTINF:-1 tvg-name="俄罗斯新闻24" tvg-logo="https://live.fanmingming.com/CGTN俄语.png" group-title="NewTV",俄罗斯新闻24
+https://streaming.skynetconnect.online/live/30.m3u8
+#EXTINF:-1 tvg-name="菲律宾MYX" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="NewTV",菲律宾MYX
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-name="菲律宾DZRH" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="NewTV",菲律宾DZRH
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1 tvg-name="菲律宾T5" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="NewTV",菲律宾T5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-name="泰国公共台" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="NewTV",泰国公共台
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-name="泰国新闻台" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="NewTV",泰国新闻台
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="沙特阿拉伯" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",沙特阿拉伯
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 tvg-name="沙特阿拉伯2" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",沙特阿拉伯2
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="乌克兰" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",乌克兰
+https://ythls.armelin.one/channel/UCkyrSWEcjZKpIwMxiPfOcgg.m3u8
+#EXTINF:-1 tvg-name="乌克兰2" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",乌克兰2
+https://ythls.armelin.one/channel/UCa85JIfBxZgcrsd8Ar7Z9nw.m3u8
+#EXTINF:-1 tvg-name="以色列24" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",以色列24
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-name="印度人民电视台" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",印度人民电视台
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 tvg-name="印度BBC" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",印度BBC
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-name="印度24" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",印度24
+https://dknttpxmr0dwf.cloudfront.net/index_6.m3u8
+#EXTINF:-1 tvg-name="朝鲜电视台" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",朝鲜电视台
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-name="MRTV缅甸" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",MRTV缅甸
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:-1 tvg-name="利比亚" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",利比亚
+https://master.starmena-cloud.com/hls/almasar.m3u8
+#EXTINF:-1 tvg-name="利比亚2" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",利比亚
+ttps://master.starmena-cloud.com/hls/jam.m3u8
+#EXTINF:-1 tvg-name="利比亚3" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",利比亚3
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="叙利亚萨玛" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",叙利亚萨玛
+萨玛电视台，https://stream.sama-tv.net/hls/samatv.m3u8  
+#EXTINF:-1 tvg-name="叙利亚罗贾瓦" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",叙利亚罗贾瓦
+https://rojava-tv.akamaized.net/hls/rojava-tv.m3u8
+#EXTINF:-1 tvg-name="叙利亚罗纳希" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",叙利亚罗纳希
+https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8
+#EXTINF:-1 tvg-name="黎巴嫩电视台" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",黎巴嫩电视台
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-name="黎巴嫩Al-Iman" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",黎巴嫩Al-Iman
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="黎巴嫩阿加尼" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",黎巴嫩阿加尼
+https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+#EXTINF:-1 tvg-name="黎巴嫩伊蒂哈德" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",黎巴嫩伊蒂哈德
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+#EXTINF:-1 tvg-name="黎巴嫩那巴" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",黎巴那巴
+http://31.14.40.237:1935/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-name="索马里" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",索马里
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
+#EXTINF:-1 tvg-name="索马里2" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",索马里2
+http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1 tvg-name="索马里3" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",索马里3
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-name="索马里4" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",索马里4
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
