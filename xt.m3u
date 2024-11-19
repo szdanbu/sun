@@ -104,7 +104,7 @@ http://[2409:8087:74d9:21::6]:80/270000001128/9900000047/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8
 #EXTINF:-1 tvg-name="陕西1台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西电视1台
-http://stream.snrtv.com/sxbc-1-afgyHN.m3u8
+http://stream.snrtv.com/sxbc-1-jowLP0.m3u8
 #EXTINF:-1 tvg-name="西安电视1台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",西安电视1台
 http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv1
 #EXTINF:-1 tvg-name="西安电视2台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",西安电视2台
@@ -173,8 +173,6 @@ https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8 
 #EXTINF:-1 tvg-name="NHK" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="NewTV",NHK
 https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
-#EXTINF:-1 tvg-name="NTV新闻" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="NewTV",NTV新闻
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8 
 #EXTINF:-1 tvg-name="NHK动画" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="NewTV",NHK动画
 https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-name="日本TVB2" tvg-logo="https://live.fanmingming.com/tvTVB%2B.png/" group-title="NewTV",日本TVB2
@@ -206,7 +204,7 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 #EXTINF:-1 tvg-name="CBS2" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",CBS2
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1 tvg-name="NBC" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",NBC
-NBC,https://cd71891d94494d13b6b2adab650716f6.mediatailor.us-west-2.amazonaws.com/v1/dash/7f34bf1814de6fddce84b1e6c296b7a70243b88f/nbcnews-atp-dash-linear-4s-generic/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd?aws.sessionId=e0a445d7-b2e9-45f1-91c3-85f576016c26
+https://cd71891d94494d13b6b2adab650716f6.mediatailor.us-west-2.amazonaws.com/v1/dash/7f34bf1814de6fddce84b1e6c296b7a70243b88f/nbcnews-atp-dash-linear-4s-generic/Content/CMAF_OL1-CTR-4s/Live/channel(nnn)/master.mpd?aws.sessionId=e0a445d7-b2e9-45f1-91c3-85f576016c26
 #EXTINF:-1 tvg-name="美国第一财经" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",美国第一财经
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1 tvg-name="美国儿童频道" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="NewTV",美国儿童频道
@@ -235,6 +233,8 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UCkyrSWEcjZKpIwMxiPfOcgg.m3u8
 #EXTINF:-1 tvg-name="乌克兰2" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",乌克兰2
 https://ythls.armelin.one/channel/UCa85JIfBxZgcrsd8Ar7Z9nw.m3u8
+#EXTINF:-1 tvg-name="乌克兰3U" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",乌克兰3U
+ttps://freedom.cdn-02.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-name="以色列24" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",以色列24
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-name="印度人民电视台" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="中东",印度人民电视台
@@ -277,3 +277,11 @@ http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
 #EXTINF:-1 tvg-name="索马里4" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="未开发国家",索马里4
 https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-name="美国狂野地球" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="全球地理",美国狂野地球
+https://wildearth-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="芬兰" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="全球地理",芬兰
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
+#EXTINF:-1 tvg-name="俄罗斯" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="全球地理",俄罗斯
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 tvg-name="俄罗斯2" tvg-logo="https://live.fanmingming.com/AXN.png" group-title="全球地理",俄罗斯2
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
