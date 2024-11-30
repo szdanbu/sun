@@ -1,18 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 NNEL00000319/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8
-#EXTINF:-1 tvg-name="陕西1台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西电视1台
-http://stream.snrtv.com/sxbc-1-jowLP0.m3u8
-#EXTINF:-1 tvg-name="西安电视1台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",西安电视1台
-http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv1
-#EXTINF:-1 tvg-name="西安电视2台" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",西安电视2台
-http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv2
-#EXTINF:-1 tvg-name="延安YATV-2" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",延安YATV-2
-http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8
-#EXTINF:-1 tvg-name="延安YATV-1" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",延安YATV-1
-http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8
-
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台频道",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港澳台频道",凤凰中文
